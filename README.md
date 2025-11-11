@@ -1,6 +1,6 @@
 # QueryRouter AI
 
-An intelligent **Node.js backend service** that uses **OpenAI function calling** to dynamically route natural language user queries to the appropriate tool:
+An intelligent **Node.js backend service** using the Koa.js framework that uses **OpenAI function calling** to dynamically route natural language user queries to the appropriate tool:
 
 - **RAG Tool** → Vector search over documents using **Pinecone**
 - **Database Tool** → Structured data queries using **MongoDB + Mongoose**
