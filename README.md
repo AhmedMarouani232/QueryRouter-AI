@@ -35,7 +35,7 @@ An intelligent **Node.js backend service** using the Koa.js framework that uses 
 ---
 
 ## Setup
-1. Clone repo: `git clone your-repo-url`
+1. Clone repo: `git clone https://github.com/AhmedMarouani232/QueryRouter-AI.git`
 2. Install: `npm install`
 3. Set up .env with keys (see .env example above).
 4. Create Pinecone index and MongoDB collection.
